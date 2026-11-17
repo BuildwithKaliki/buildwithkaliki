@@ -21,6 +21,7 @@ self-service, codified, observable, and cheap to run.
 | **[aws-fleet-platform](https://github.com/buildwithkaliki/aws-fleet-platform)** | Multi-account/multi-region EKS platform factory — Terraform modules + CI lanes |
 | **[gitops-fleet-demo](https://github.com/buildwithkaliki/gitops-fleet-demo)** | ArgoCD app-of-apps on k3d — GitOps delivery with drift-revert demo |
 | **[aws-cost-auditor](https://github.com/buildwithkaliki/aws-cost-auditor)** | Python FinOps CLI — stale snapshots, idle RDS, S3 lifecycle recommendations |
+| **[krishna-portfolio](https://github.com/buildwithkaliki/krishna-portfolio)** | Terminal-themed portfolio site (live: [krishna-portfolio-plum-seven.vercel.app](https://krishna-portfolio-plum-seven.vercel.app)) |
 
 ### 🛠️ Daily drivers
 
@@ -28,7 +29,7 @@ AWS · Kubernetes/EKS · Terraform · ArgoCD · Helm · GitHub Actions · Promet
 
 ### 📫 Reach me
 
-LinkedIn · Portfolio → coming soon
+[Portfolio](https://krishna-portfolio-plum-seven.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sai-krishna-reddy2137)
 
 ---
 
